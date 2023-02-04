@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name":"Tin Erispe - UX Designer",
+    "description":"I am a multidisciplinary UX designer with a flair for programming. I believe in creating technology that has empathy— making impactful products that are a delight to use",
+    "image":"profilepic.jpg",
+    "bio":"I've been in the design field since 2015 and worked on diverse projects ranging from graphic layouts, to high-stake pitch decks, to Wordpress websites. But the day I found UX design, something clicked and I realized that this is the heart of everything I do. I dabble and tinker with a lot of things because my passion is creating a product that people will love to use. To see things from different perspectives helps me bring a more holistic approach to user experience and it's the kind of work that brings me joy.",
+    "contactmessage":"I'm currently looking for opportunities! If you have a project, know of any positions available, or if you just want to say hi, please feel free to contact me:",
+    "email": "typepuller@gmail.com",
+    "phone": "+639-274-255-248",
+    "github":"https://github.com/0xdanki/",
+    "resume":"https://drive.google.com/file/d/1uUIsfs6lumel78WcAh3IcYYYZ-UwFluA/view?usp=sharing",
+    "address":{
+      "street":"Session Road",
+      "city":"Baguio City",
+      "state":"Benguet, PH",
+      "zip": "2600"
+    },
+    "project": "https://www.behance.net/tinerispe/",
+    "resumedownload":"https://drive.google.com/file/d/1uUIsfs6lumel78WcAh3IcYYYZ-UwFluA/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/luckscientist/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/0xdanki/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/0xdanki/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"resume",
+        "url":"https://drive.google.com/file/d/1uUIsfs6lumel78WcAh3IcYYYZ-UwFluA/view?usp=sharing",
+        "className":"fa fa-book"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My tech stack and hard skills include but are not limited to:",
+    "education":[
+      {
+        "school":"Google UX Design Professional",
+        "degree":"UX Design and Research",
+        "graduated":"February 2023",
+        "description":"UX design curriculum and certification developed by Google, with hands-on projects in usability testing, building wireframes and prototypes, responsive design, and more to develop all skills necessary to become a professional UX designer"
+      },
+      {
+        "school":"Alchemy University Ethereum Developer",
+        "degree":"Basic and Advanced Blockchain Development",
+        "graduated":"February 2023",
+        "description":"Alchemy provides the most extensive Ethereum development course to date. By the end of the course, I learned how to build decentralized apps that interact with EVM chains. They cover theoretical knowledge, hands-on coding bootcamp, and software kits that expedite a developer's workflow."
+      },
+      {
+        "school":"Certified Digital Marketing Strategist",
+        "degree":"All Aspects of Digital Marketing",
+        "graduated":"May 2020",
+        "description":"DigitalMarketer is the most comprehensive digital marketing training in the industry. Earners of the badge are “T-shaped” marketers who have a top-level overview of the major channels of digital marketing"
+      }
+    ],
+    "work":[
+      {
+        "company":"UX Designer and Researcher",
+        "title":"Freelance",
+        "years":"December 2022 - Present",
+        "description":"I created case studies on personal social impact projects such as OpenMarket, a decentralized supply chain application that allows farmers to sell their produce before they are even harvested"
+      },
+      {
+        "company":"Blockchain Engineer and Security Researcher",
+        "title":"Freelance",
+        "years":"January 2022 - Present",
+        "description":"Built blockchain-based technologies such as arbitrage bots, upgradeable smart contracts for multisig wallets, supply chain dApp, and my own smart contract auditing framework"
+      },
+      {
+        "company":"Chief Marketing Officer",
+        "title":"UV Philippines",
+        "years":"September 2019 - October 2021",
+        "description":"Managed Shopify stores, Facebook Ads, optimized funnels, and developed marketing strategies for my own businesses"
+      },
+      {
+        "company":"Wordpress Developer and Graphic Designer",
+        "title":"Freelance",
+        "years":"August 2015 - December 2019",
+        "description":"Created a wide range of Wordpress websites from ground up. I was responsible for both the backend, frontend, and graphics"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Figma",
+        "level":"98%"
+      },
+      {
+        "name":"Adobe XD",
+        "level":"95%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"98%"
+      },
+      {
+        "name":"HTML & CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JS (Vanilla, React, Node)",
+        "level":"80%"
+      },
+      {
+        "name":"Solidity",
+        "level":"92%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Baguio Blooms Mobile Mockups",
+        "category":"A delivery app that allows local florists to sell and deliver to busy professionals nearby",
+        "image":"bb.png",
+        "url":"https://www.behance.net/gallery/162999389/Baguio-Blooms-Florist-Web-App-UX-Case-Study"
+      },
+      {
+        "title":"OpenMarket dApp",
+        "category":"A Decentralized App where wholesalers in the market can buy directly from farmers",
+        "image":"openmarketdapp.png",
+        "url":"https://www.behance.net/gallery/162995429/OpenMarket-dApp"
+      },
+      {
+        "title":"Papelyes Ecommerce Site",
+        "category":"A Shopify Ecommerce site that I made and designed",
+        "image":"papelyes.png",
+        "url":"https://www.behance.net/gallery/162997569/Papelyes-Ecommerce-Website"
+      },
+      {
+        "title":"OpenMarket dApp Case Study",
+        "category":"The full case study for OpenMarket Dapp",
+        "image":"openmarketcs.png",
+        "url":"https://docs.google.com/presentation/d/1zF9ZNU_cx-TS37VcH7rYbw4RelXpQTi0MZfvdn-Kk0E/edit?usp=sharing"
+      },
+      {
+        "title":"Farmer's Supply Chain dApp",
+        "category":"A Decentralized Application that could potentially solve logistics for farmers",
+        "image":"farmerdapp.png",
+        "url":"https://www.behance.net/gallery/162998989/Agricultural-Supply-Chain-Dapp-Case-Study"
+      },
+      {
+        "title":"BaguioLoco Blog Site",
+        "category":"My chronicles while living in the Summer Capital of the Philippines",
+        "image":"baguioloco.png",
+        "url":"https://www.behance.net/gallery/162998505/Baguio-Loco-Blog-Layout"
+      },
+      {
+        "title":"Baguio Blooms Case Study",
+        "category":"Case Study for a Local Florist Delivery App",
+        "image":"baguiobloomscs.png",
+        "url":"https://docs.google.com/presentation/d/1P_ATTSK6_7Z81oED2BmHKyEfOm__cUa-qqbcnVQMNR4/edit?usp=sharing"
+      },
+      {
+        "title":"LockinFuel Mockups and Website",
+        "category":"A website I made in 2018",
+        "image":"lockinf.png",
+        "url":"https://www.behance.net/gallery/162998287/Fuel-Price-Prediction-Website"
+      },
+      {
+        "title":"Farmer's Supply Chain dApp Case Study",
+        "category":"Full Case Study for the Agrigultural Supply Chain Dapp",
+        "image":"farmercs.png",
+        "url":"https://docs.google.com/presentation/d/1zF9ZNU_cx-TS37VcH7rYbw4RelXpQTi0MZfvdn-Kk0E/edit?usp=sharing"
+      }
+    ]
+  }
+}
